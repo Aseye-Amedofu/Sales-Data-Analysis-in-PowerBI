@@ -13,3 +13,5 @@ Determine performance by products.
 <img width="516" alt="Sales Data Analysis with PowerBI" src="https://user-images.githubusercontent.com/114199120/205873553-53441366-9cbc-493a-ac54-5143a56f4d47.PNG">
 
 
+## Author
+Samuel Aseye Amedofu
