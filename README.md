@@ -1,4 +1,7 @@
 # Sales-Data-Analysis
+Data Analysis Dashboard 
+
+# Project Description
 Create a Sales Dashboard for Analysis
 There are four datasets: locations, people, products, and sales. 
 Determine Sales by Location.
